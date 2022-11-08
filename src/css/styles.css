@@ -1,0 +1,29 @@
+input#entry {
+  width: 75%;
+  height: 500%;
+  padding: 20% 20%;
+  box-sizing: border-box;
+  margin-bottom: 2%;
+}
+
+body {
+  text-align: center;
+  color: black;
+}
+
+body {
+  background: url(https://images.pexels.com/photos/606541/pexels-photo-606541.jpeg?cs=srgb&dl=pexels-jessica-lewis-creative-606541.jpg&fm=jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+button {
+  border-radius: 50%;
+  margin-bottom: 2%;
+}
+
+hr {
+  border-top: 5px solid black;
+}
